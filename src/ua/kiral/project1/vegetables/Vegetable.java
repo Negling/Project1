@@ -1,4 +1,4 @@
-package com.epam.kiral.project1.vegetables;
+package ua.kiral.project1.vegetables;
 
 public abstract class Vegetable {
 	protected int weight;

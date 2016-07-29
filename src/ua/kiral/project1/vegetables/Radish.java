@@ -1,4 +1,4 @@
-package com.epam.kiral.project1.vegetables;
+package ua.kiral.project1.vegetables;
 
 public class Radish extends Vegetable {
 

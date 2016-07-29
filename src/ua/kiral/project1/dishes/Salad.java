@@ -1,8 +1,8 @@
-package com.epam.kiral.project1.dishes;
+package ua.kiral.project1.dishes;
 
 import java.util.Comparator;
 
-import com.epam.kiral.project1.vegetables.Vegetable;
+import ua.kiral.project1.vegetables.Vegetable;
 
 public class Salad {
 

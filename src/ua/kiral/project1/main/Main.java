@@ -1,7 +1,7 @@
-package com.epam.kiral.project1.main;
+package ua.kiral.project1.main;
 
-import com.epam.kiral.project1.dishes.Salad;
-import com.epam.kiral.project1.vegetables.*;
+import ua.kiral.project1.dishes.Salad;
+import ua.kiral.project1.vegetables.*;
 
 public class Main {
 
